@@ -11,7 +11,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-![鹅宝动画](images/animation.gif)
+![鹅宝动画](animation.gif)
 
 </div>
 
